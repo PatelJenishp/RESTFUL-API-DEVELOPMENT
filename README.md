@@ -50,3 +50,20 @@ To set up the backend locally and start developing or testing, follow these step
    ```sh
    npm start
    ```
+   COMPANY: CODTECH IT SOLUTIONS
+
+NAME JENISH PATEL
+
+INTER ID: CT06DG826
+
+DOMIN: SOFTWARE DEVELOPMENT
+
+DURATION: 6 WEEK
+
+MENTOR: NEELA SANTOSH
+
+##YOU HAVE TO ENTER DESCRTION OF YOUR TASK (AND IT SHOULD NOT BE LESS THAN 500 WORDS)
+
+#OUTPUT
+
+
