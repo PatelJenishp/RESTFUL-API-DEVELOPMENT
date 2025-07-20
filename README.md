@@ -37,3 +37,7 @@ Complete documentation explaining how to interact with the API.
 This assignment nurtures a strong foundation in backend API development and provides practical exposure to software engineering practices. It also helps interns understand how applications exchange data and the significance of structured API development in building scalable systems. Completing this task successfully enhances an intern's portfolio, demonstrating their capability in full-stack or backend development, which is highly valued in the tech industry.
 
 In summary, Task-2 of the CODTECH Internship is not just a coding challenge — it is a structured exercise designed to strengthen the understanding of REST principles, backend logic, and clean code documentation. It’s an ideal opportunity for budding developers to transition from theory to hands-on development, setting the stage for future project work or professional roles in software development.
+
+#OUTPUT
+
+<!-- Uploading "Screenshot 2025-07-20 215819.png"... -->
