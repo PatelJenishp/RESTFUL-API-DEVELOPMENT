@@ -40,4 +40,4 @@ In summary, Task-2 of the CODTECH Internship is not just a coding challenge — 
 
 #OUTPUT
 
-<!-- Uploading "Screenshot 2025-07-20 215819.png"... -->
+<img width="1626" height="213" alt="Image" src="https://github.com/user-attachments/assets/f262c18f-0caa-47fd-bfd0-c76c0f80035e" />
